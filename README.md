@@ -21,7 +21,7 @@ As of 5 February 2026, the MPCD corpus includes 40,233 sentences in altogether 4
 
 |ID|text|type|comment|
 |---|---|---|---|
-|AŌD-K20|	Andarz ī ōšnar ī dānāg according to manuscript K20|	wisdom literature|	morphological annotation complete, 55/106 sentences fully annotated, by Thomas Jügel
+|AŌD-K20|	Andarz ī ōšnar ī dānāg according to manuscript K20|	wisdom literature|	morphological annotation complete, 101/106 sentences fully annotated, by Thomas Jügel
 |Col-TD2-2|	Rivāyat ī Farrbaysrōš's Colophon according to manuscript TD2|	colophon|	3/3 sentences fully annotated, by Iris Colditz
 |DD1-K35	| Dādestān ī dēnīg Part 1 according to manuscript K35	|theological	|morphological annotation in progress, 234/1075 sentences fully annotated, by Thomas Jügel
 |DD1-TD4a	|Dādestān ī dēnīg Part 1 according to manuscript TD4a	|theological	|morphological annotation in progress, by Thomas Jügel
@@ -31,7 +31,7 @@ As of 5 February 2026, the MPCD corpus includes 40,233 sentences in altogether 4
 |Dk7-B	|Dēnkard 7 according to manuscript B	|zand-based	|morphological annotation in progress, 153/615 sentences fully annotated, by Raha Musavi
 |Dk8-B	|Dēnkard 8 according to manuscript B	|zand-based	|morphological annotation complete, by Benedikt Peschl
 |Dk9-B	|Dēnkard 9 according to manuscript B	|zand-based	|annotation in progress, by Benedikt Peschl
-|DMX-K43a	|Dādestān ī mēnōy ī xrad according to manuscript K43a	|wisdom literature	|morphological annotation complete, 374/737 sentences fully annotated, by Thomas Jügel
+|DMX-K43a	|Dādestān ī mēnōy ī xrad according to manuscript K43a	|wisdom literature	|morphological annotation complete, 733/737 sentences fully annotated, by Thomas Jügel
 |DMX-L19	|Dādestān ī mēnōy ī xrad according to manuscript L19	|wisdom literature	|morphological annotation in progress, 234/257 sentences fully annotated, by Thomas Jügel
 |FrW10-K20	|Fragment Westergaard 10 according to manuscript K20	|Avestan translation (Zand)	|annotation in progress, by Benedikt Peschl
 |GA-K20	|Mādayān ī gizistag abālīš according to manuscript K20	|wisdom literature	|morphological annotation complete, by Raha Musavi<br>27/130 sentences syntactically annotated, by Thomas Jügel
